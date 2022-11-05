@@ -1,7 +1,5 @@
 # REACT.TS SPA
 
-:exclamation:
-
 This is a boilerplate for `Single Page Applications` Using:
 
 ```
