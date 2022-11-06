@@ -4,7 +4,7 @@
 
 Life is too short to start new projects from scratch. Thus, this repo servers as collection of boilerplates for technologies I work with the most.
 
-Each boilerplate will live in its own branch. The branches will be maintained as long as a fancy the stack. use them at your own risk.
+Each boilerplate will live in its own branch. The branches will be maintained as long as I fancy the stack. use them at your own risk.
 
 #### Start By Installing [Degit](https://github.com/Rich-Harris/degit)
 
@@ -16,6 +16,7 @@ npm install -g degit
 ```
 degit jihedmastouri/boilerplates#<branch name> <your project name>
 ```
+> Leave the `Project name` blank to initiate in the current directory.
 
 ### Branches:
 
