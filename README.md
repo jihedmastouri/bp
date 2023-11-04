@@ -1,26 +1,20 @@
-# boilerplates
+# React.ts SPA
 
-> :warning: If a branch has not had any commits for a long time, be aware of depreciations.
-
-Life is too short to start new projects from scratch. Thus, this repo servers as collection of boilerplates for technologies I work with the most.
-
-Each boilerplate will live in its own branch. The branches will be maintained as long as I fancy the stack. use them at your own risk.
-
-#### Start By Installing [Degit](https://github.com/Rich-Harris/degit)
+This is a boilerplate for `Nextjs 14 RSC` Using:
 
 ```
-npm install -g degit
+Next 14 + React
+TypeScript + Zod
+Tailwind
+Shadcn/ui (Radix/ui)
+Drizzle + PlanetScale
 ```
 
-#### Use the following command to initiate your project based on a branch:
+Use This command to initiate a new project based on this branch:
+
+```bash
+degit jihedmastouri/boilerplates#Next14
 ```
-degit jihedmastouri/boilerplates#<branch name> <your project name>
-```
-> Leave the `Project name` blank to initiate in the current directory.
 
-### Branches:
-
-- `react`: Building SPA never been this amazing.
-
-
+> More about [Degit](https://github.com/Rich-Harris/degit)
 
