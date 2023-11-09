@@ -1,0 +1,25 @@
+{
+  "name": "Quick Node",
+  "version": "0.0.0",
+  "description": "Get something started quick for testing",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Don't",
+    "use",
+    "this",
+    "for",
+    "production",
+		"."
+  ],
+  "author": "You",
+  "dependencies": {
+    "@types/node": "^20.8.10"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
