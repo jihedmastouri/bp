@@ -1,4 +1,4 @@
-# React.ts SPA
+# Next.js 14
 
 This is a boilerplate for `Nextjs 14 RSC` Using:
 
