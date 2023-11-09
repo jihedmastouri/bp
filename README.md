@@ -9,8 +9,12 @@ Each boilerplate will live in its own branch. A branche will be maintained as lo
 ## Branches:
 
 - `react` : Building SPA never been this amazing.
-- `Next14` : Ride the hype with React Server Components.
-- `hono` : Ditch node+express and use this instead (Coming soon...).
+- `Next14` : Ride the hype with React Server Components (WIP).
+- `quick-node` : Get something started quick for testing.
+
+Coming soon:
+- `hono` : Ditch node+express and use this instead.
+- `node-ts` : regular node+ts.
 
 ## Usage with [degit](https://github.com/Rich-Harris/degit)
 
